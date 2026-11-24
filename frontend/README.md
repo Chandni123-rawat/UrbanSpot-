@@ -1,0 +1,1 @@
+See the ParkShare Lite setup guide in the project root.
